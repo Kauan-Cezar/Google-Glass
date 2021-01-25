@@ -9,10 +9,10 @@
   <img src="prints/screenshot_4.png" />  
 </p>
 
-## About
+## Sobre
 Eu criei este site durante uma aula online de HTML5
 
-## Technologies
+## Tecnologias
 
 **- HTML5**
 <br>
@@ -21,12 +21,11 @@ Eu criei este site durante uma aula online de HTML5
 **- Javascript**
 <br>
 
-## Building
+## Construcao
 
-No installation or configuration is required to be able to use the Google Glass, just clone the project.
-
+Nenhuma instalação ou configuração é necessária para poder usar o Google Glass, basta clonar o projeto.
 ```bash
 git clone https://github.com/Kauan-Cezar/Google-Glass
 ```
 
-Ready just run the file **index.html** enjoy the interface :)
+Pronto é só executar o arquivo index.html aproveite a interface :)
