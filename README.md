@@ -26,7 +26,7 @@ Eu criei este site durante uma aula online de HTML5
 No installation or configuration is required to be able to use the papitos, just clone the project.
 
 ```bash
-git clone https://github.com/hyankelwin/papitos-web.git  ** colocar sua url
+git clone https://github.com/Kauan-Cezar/Google-Glass
 ```
 
 Ready just run the file **index.html** enjoy the interface :)
