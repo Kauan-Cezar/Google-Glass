@@ -1,5 +1,5 @@
 <h1 align="center">
-## Google Glass ##
+## Google Glass 
 </h1>
 
 <p align="center">
@@ -10,8 +10,7 @@
 </p>
 
 ## About
-** MUDAR SOBRE
-One of the first solutions in what I developed at the beginning of my career, papitos is a solution totally designed in a place where it could be a meeting point for university students, for the fact of gastronomy and a great quality in our dishes. The bar built on the site is a nice environment for you to gather family friends.
+Eu criei este site durante uma aula online de HTML5
 
 ## Technologies
 
