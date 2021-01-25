@@ -21,9 +21,6 @@ Eu criei este site durante uma aula online de HTML5
 **- Javascript**
 <br>
 
-## Building
-
-No installation or configuration is required to be able to use the papitos, just clone the project.
 
 ```bash
 git clone https://github.com/Kauan-Cezar/Google-Glass
