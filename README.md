@@ -1,14 +1,12 @@
 <h1 align="center">
-<br>
-<br>
-<br>
+## Google Glass ##
 </h1>
 
 <p align="center">
-  <img src="prints/screenshot_1.png" />  **
-  <img src="imagens/screenshot_2.png" />  **  COlocar seus prints
-  <img src="imagens/screenshot_3.png" />  **
-  <img src="imagens/screenshot_4.png" />  **
+  <img src="prints/screenshot_1.png" />  
+  <img src="prints/screenshot_2.png" />  
+  <img src="prints/screenshot_3.png" />  
+  <img src="prints/screenshot_4.png" />  
 </p>
 
 ## About
